@@ -1,6 +1,6 @@
-# Assignment 18: Score Processor
+# Score Processor
 
-This assignment implements a **Score Processor** in Java. It showcases robust exception handling patterns using `try-catch-finally` blocks, resource cleanup, exception re-throwing, and JUnit 5 unit testing with temporary directories (`@TempDir`).
+This project implements a **Score Processor** in Java. It showcases robust exception handling patterns using `try-catch-finally` blocks, resource cleanup, exception re-throwing, and JUnit 5 unit testing with temporary directories (`@TempDir`).
 
 ## Table of Contents
 - [Project Structure](#project-structure)
@@ -13,7 +13,7 @@ This assignment implements a **Score Processor** in Java. It showcases robust ex
 
 ## Project Structure
 
-The project code is organized inside the `scoreProcessor/` folder:
+The project code is organized inside the `src/` folder:
 
 * **[ScoreProcessor.java](file:///c:/Users/rajpr/adv-prg-asnmts/adv-prg-assignments/assignment18/scoreProcessor/src/ScoreProcessor.java)**: Core utility that reads a file, parses a numeric score, multiplies it by 10, and handles various I/O and format exceptions.
 * **[ScoreProcessorTest.java](file:///c:/Users/rajpr/adv-prg-asnmts/adv-prg-assignments/assignment18/scoreProcessor/src/ScoreProcessorTest.java)**: Unit tests that verify proper scoring calculations and exception raising under erroneous environments.
@@ -86,4 +86,4 @@ To run the JUnit 5 tests, execute:
 ```bash
 java -cp ".;lib/*" org.junit.platform.console.ConsoleLauncher --select-class ScoreProcessorTest
 ```
-*(Make sure JUnit 5 binaries are included in your system/IDE classpath)*
+*(Ensure JUnit 5 jars are in the classpath/project setup).*
