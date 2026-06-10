@@ -91,4 +91,3 @@ The `Main` demo will prompt to choose a payment method and then process a `Disco
 - [src/service/OrderService.java](src/service/OrderService.java#L1)
 
 ---
-If you'd like, I can: add a new payment method example, implement multiple notification channels, or add unit tests. Which should I do next?
