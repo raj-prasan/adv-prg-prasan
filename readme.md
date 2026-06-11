@@ -12,10 +12,10 @@ Below is the list of all branches with direct links to view the code on GitHub:
 * **[assignment 3](https://github.com/raj-prasan/adv-prg-prasan/tree/assignment3)**
 * **[assignment 4](https://github.com/raj-prasan/adv-prg-prasan/tree/assignment4)**
 * **[assignment 5](https://github.com/raj-prasan/adv-prg-prasan/tree/assignment5)**
-* **[assignment 6 (assignnment6)](https://github.com/raj-prasan/adv-prg-prasan/tree/assignnment6)**
-* **[assignment 7 (assignnment7)](https://github.com/raj-prasan/adv-prg-prasan/tree/assignnment7)**
-* **[assignment 8 (assignnment8)](https://github.com/raj-prasan/adv-prg-prasan/tree/assignnment8)**
-* **[assignment 9 (assignnment9)](https://github.com/raj-prasan/adv-prg-prasan/tree/assignnment9)**
+* **[assignment 6](https://github.com/raj-prasan/adv-prg-prasan/tree/assignnment6)**
+* **[assignment 7 ](https://github.com/raj-prasan/adv-prg-prasan/tree/assignnment7)**
+* **[assignment 8](https://github.com/raj-prasan/adv-prg-prasan/tree/assignnment8)**
+* **[assignment 9](https://github.com/raj-prasan/adv-prg-prasan/tree/assignnment9)**
 * **[assignment 10](https://github.com/raj-prasan/adv-prg-prasan/tree/assignment10)**
 * **[assignment 11](https://github.com/raj-prasan/adv-prg-prasan/tree/assignment11)**
 * **[assignment 12](https://github.com/raj-prasan/adv-prg-prasan/tree/assignment12)**
